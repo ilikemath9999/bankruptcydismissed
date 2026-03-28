@@ -1,0 +1,19 @@
+# bankruptcydismissed.com
+
+> Your bankruptcy case was dismissed. Learn what that means in plain English, why it happened, and what your options are going forward. Free, independent guide.
+
+## About
+
+bankruptcydismissed.com explains what happens when a bankruptcy case is dismissed. The site covers common reasons for dismissal (failure to file documents, failure to make plan payments, failure to attend the 341 meeting, means test issues), the consequences of dismissal, how dismissal differs from discharge, options for refiling, and the 180-day filing bar under Section 109(g). Written for consumers who have received or may receive a dismissal order.
+
+## Key Pages
+
+- [Home](https://bankruptcydismissed.com/): Complete guide to bankruptcy dismissal -- reasons, consequences, refiling options, and next steps
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "bankruptcydismissed.com, Open Bankruptcy Project (2026)."
