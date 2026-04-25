@@ -13,25 +13,25 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Dismissed Bankruptcy on Your Credit Report</title>
-<meta name="description" content="Learn about dismissed bankruptcy on your credit report in our free 2026 guide. Clear explanations, real data, and practical steps.">
-<link rel="canonical" href="https://bankruptcydismissed.com/credit-impact.html">
+<title>Dismissed With Prejudice vs Without Prejudice - Bankruptcy</title>
+<meta name="description" content="Learn about dismissed with prejudice vs without prejudice - bankruptcy in our free 2026 guide. Clear explanations, real data, and practical s...">
+<link rel="canonical" href="https://bankruptcydismissed.com/prejudice-vs-without.html">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<meta property="og:title" content="Dismissed Bankruptcy on Your Credit Report">
-<meta property="og:description" content="Learn about dismissed bankruptcy on your credit report in our free 2026 guide. Clear explanations, real data, and practical steps.">
+<meta property="og:title" content="Dismissed With Prejudice vs Without Prejudice - Bankruptcy">
+<meta property="og:description" content="Learn about dismissed with prejudice vs without prejudice - bankruptcy in our free 2026 guide. Clear explanations, real data, and practical s...">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://bankruptcydismissed.com/credit-impact.html">
+<meta property="og:url" content="https://bankruptcydismissed.com/prejudice-vs-without.html">
 <meta property="og:site_name" content="bankruptcydismissed.com">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Dismissed Bankruptcy on Your Credit Report">
-<meta name="twitter:description" content="Learn about dismissed bankruptcy on your credit report in our free 2026 guide. Clear explanations, real data, and practical steps.">
+<meta name="twitter:title" content="Dismissed With Prejudice vs Without Prejudice - Bankruptcy">
+<meta name="twitter:description" content="Learn about dismissed with prejudice vs without prejudice - bankruptcy in our free 2026 guide. Clear explanations, real data, and practical s...">
 <meta property="og:image" content="https://openbankruptcyproject.org/og-default.svg">
 <meta name="twitter:image" content="https://openbankruptcyproject.org/og-default.svg">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bankruptcydismissed.com/"},{"@type":"ListItem","position":2,"name":"Dismissed Bankruptcy on Your Credit Report","item":"https://bankruptcydismissed.com/credit-impact.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bankruptcydismissed.com/"},{"@type":"ListItem","position":2,"name":"Dismissed With Prejudice vs Without Prejudice - Bankruptcy","item":"https://bankruptcydismissed.com/prejudice-vs-without.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -39,8 +39,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Dismissed Bankruptcy on Your Credit Report",
-      "description": "A dismissed bankruptcy stays on your credit report for 7-10 years. How it differs from a discharged bankruptcy in credit scoring and what you can do about it.",
+      "headline": "With Prejudice vs Without Prejudice",
+      "description": "Understanding the critical difference: dismissal with prejudice bars refiling, while dismissal without prejudice allows it. Section 349 and Section 109(g) expla",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -52,12 +52,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcydismissed.com/credit-impact.html"
+      "mainEntityOfPage": "https://bankruptcydismissed.com/prejudice-vs-without.html"
     },
     {
       "@type": "WebPage",
-      "name": "Dismissed Bankruptcy on Your Credit Report",
-      "url": "https://bankruptcydismissed.com/credit-impact.html",
+      "name": "With Prejudice vs Without Prejudice",
+      "url": "https://bankruptcydismissed.com/prejudice-vs-without.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -130,28 +130,7 @@ footer .links a{margin:0 0.75rem}
 </style>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How Long Does It Stay on Your Report?", "acceptedAnswer": {"@type": "Answer", "text": "A dismissed bankruptcy stays on your credit report for: Chapter 7 dismissed: 10 years from the filing date Chapter 13 dismissed: 7 years from the filing date This is the same duration as a completed bankruptcy. The fact that the case was dismissed does not reduce the reporting period."}}, {"@type": "Question", "name": "Can You Remove It?", "acceptedAnswer": {"@type": "Answer", "text": "You generally cannot remove a dismissed bankruptcy from your credit report before the reporting period expires."}}]}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What Does \"With Prejudice\" Mean?", "acceptedAnswer": {"@type": "Answer", "text": "When a bankruptcy case is dismissed with prejudice , the court is imposing a penalty. It means you cannot refile a bankruptcy case for a specified period - sometimes 180 days, sometimes longer."}}, {"@type": "Question", "name": "What Does \"Without Prejudice\" Mean?", "acceptedAnswer": {"@type": "Answer", "text": "Most dismissals are without prejudice . This means the dismissal does not bar you from filing a new case. You retain the right to refile, subject to the general timing rules under Section 109 (g) and the stay limitations under Section 362(c)."}}, {"@type": "Question", "name": "How to Tell Which You Got?", "acceptedAnswer": {"@type": "Answer", "text": "The dismissal order will typically state whether the dismissal is with or without prejudice. Look at the exact language: \"Case dismissed\" or \"Case dismissed without prejudice\" = you can refile \"Case dismissed with prejudice\" or \"Debtor barred from filing for [X] days/months\" = you must wait \"Case..."}}]}
 </script>
 </head>
 <body>
@@ -180,52 +159,60 @@ footer .links a{margin:0 0.75rem}
 </nav>
 
 <header role="banner">
-  <h1>Dismissed Bankruptcy on Your <span class="accent">Credit Report</span></h1>
-  <p class="subtitle">How dismissed vs discharged bankruptcies appear on credit reports and affect your score</p>
+  <h1>With Prejudice vs <span class="accent">Without Prejudice</span></h1>
+  <p class="subtitle">The difference determines whether you can ever <a href="https://canifileagain.org/" title="file bankruptcy again">file again</a></p>
 </header>
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://bankruptcydismissed.com/">Home</a><span class="separator">&rsaquo;</span><span>Dismissed Bankruptcy on Your Credit Report</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://bankruptcydismissed.com/">Home</a><span class="separator">&rsaquo;</span><span>Dismissed With Prejudice vs Without Prejudice - Bankruptcy</span></nav>
 
 
 <article id="main">
 
-<h2>How Long Does It Stay on Your Report?</h2>
-<p>A <a href="https://dismissedbankruptcy.org" title="Dismissed Bankruptcy Cases - Open Bankruptcy Project" target="_blank" rel="noopener">dismissed bankruptcy</a> stays on your credit report for:</p>
+<h2>What Does "With Prejudice" Mean?</h2>
+<p>When a bankruptcy case is dismissed <strong>with prejudice</strong>, the court is imposing a penalty. It means you cannot <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> a bankruptcy case for a specified period - sometimes 180 days, sometimes longer. In extreme cases, the court may bar you from filing for one or two years, or impose conditions on any future filing.</p>
+<p>Dismissal with prejudice is relatively rare and typically reserved for cases involving:</p>
 <ul>
-  <li><strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> dismissed:</strong> 10 years from the filing date</li>
-  <li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> dismissed:</strong> 7 years from the filing date</li>
-</ul>
-<p>This is the same duration as a completed bankruptcy. The fact that the case was dismissed does not reduce the reporting period.</p>
-
-<h2>Dismissed vs Discharged: Credit Impact</h2>
-<p>From a credit scoring perspective, a <a href="https://dismissedbankruptcy.org" title="Dismissed Bankruptcy Cases - Open Bankruptcy Project" target="_blank" rel="noopener">dismissed bankruptcy</a> is often <em>worse</em> than a discharged one:</p>
-<ul>
-  <li><strong>Discharged:</strong> Debts are eliminated, your debt-to-income ratio improves, and you can start rebuilding immediately with a clean slate.</li>
-  <li><strong>Dismissed:</strong> The bankruptcy notation appears on your report, but none of the debts were eliminated. Your debt-to-income ratio remains unchanged. You got the credit damage without the debt relief.</li>
-</ul>
-<p>This is why financial advisors often say that a <a href="https://dismissedbankruptcy.org" title="Dismissed Bankruptcy Cases - Open Bankruptcy Project" target="_blank" rel="noopener">dismissed bankruptcy</a> is the worst outcome - you take the credit hit without getting the benefit.</p>
-
-<h2>Can You Remove It?</h2>
-<p>You generally cannot remove a <a href="https://dismissedbankruptcy.org" title="Dismissed Bankruptcy Cases - Open Bankruptcy Project" target="_blank" rel="noopener">dismissed bankruptcy</a> from your credit report before the reporting period expires. However, you can dispute inaccurate information:</p>
-<ul>
-  <li>If the bankruptcy is reported as "discharged" when it was actually "dismissed," dispute the status with the credit bureau</li>
-  <li>If individual accounts still show as "included in bankruptcy" when they were not discharged, dispute those entries</li>
-  <li>If the filing date is incorrect (which affects when it falls off), dispute it</li>
+  <li>Bad faith filing (filing solely to delay creditors with no intent to reorganize)</li>
+  <li><a href="https://serialfiler.org/" title="serial filer">Serial filing</a> abuse (repeatedly filing and dismissing to exploit the <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a>)</li>
+  <li>Fraud or misrepresentation in the schedules</li>
+  <li>Willful failure to comply with court orders</li>
 </ul>
 
-<h2>Rebuilding After Dismissal</h2>
-<p>Since none of your debts were discharged, your path to credit recovery involves addressing the underlying debts. Options include:</p>
+<h2>What Does "Without Prejudice" Mean?</h2>
+<p>Most dismissals are <strong>without prejudice</strong>. This means the dismissal does not bar you from filing a new case. You retain the right to refile, subject to the general timing rules under <a href="https://109g.org" title="Section 109 Eligibility - Open Bankruptcy Project" target="_blank" rel="noopener">Section 109</a>(g) and the stay limitations under <a href="https://automaticstay.org" title="Section 362 Automatic Stay - Open Bankruptcy Project" target="_blank" rel="noopener">Section 362</a>(c).</p>
+<p>Common reasons for dismissal without prejudice:</p>
 <ul>
-  <li><strong><a href="https://canifileagain.org/" title="file bankruptcy again">Refile</a> bankruptcy:</strong> If you are eligible, a successful case that results in a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> will actually help your credit by eliminating debt. See <a href="/refiling-after.html">refiling guide</a>.</li>
-  <li><strong>Debt management plan:</strong> A <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> agency can negotiate lower interest rates and payments</li>
-  <li><strong>Negotiate settlements:</strong> Many creditors will accept less than the full balance</li>
-  <li><strong>Secured credit card:</strong> Begin building positive payment history even while dealing with existing debts</li>
+  <li>Failure to file required schedules or documents within the deadline</li>
+  <li>Failure to complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a></li>
+  <li>Failure to make <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a> payments</li>
+  <li>Voluntary dismissal by the debtor (in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, this is a right under Section 1307(b))</li>
+  <li>Failure to appear at the <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">341 meeting</a></li>
 </ul>
+
+<h2>How to Tell Which You Got</h2>
+<p>The dismissal order will typically state whether the dismissal is with or without prejudice. Look at the exact language:</p>
+<ul>
+  <li>"<a href="https://dismissedbankruptcy.org/" title="dismissal">Case dismissed</a>" or "<a href="https://dismissedbankruptcy.org/" title="dismissal">Case dismissed</a> without prejudice" = you can refile</li>
+  <li>"Case dismissed with prejudice" or "Debtor barred from filing for [X] days/months" = you must wait</li>
+  <li>"Case dismissed with a bar to refiling for 180 days" = specific time bar</li>
+</ul>
+<p>If the order does not specify, the dismissal is generally treated as without prejudice. But check with the court clerk or an attorney if you are unsure.</p>
+
+<h2>Section 349: Effects of Dismissal</h2>
+<p>Under 11 U.S.C. Section 349, dismissal of a bankruptcy case generally reinstates the pre-filing status quo:</p>
+<ul>
+  <li>All property of the estate reverts to the debtor</li>
+  <li>The <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> terminates</li>
+  <li>Liens that were avoided during the case may be reinstated</li>
+  <li>Transfers that were set aside may be restored</li>
+</ul>
+<p>The court can, for cause, order that the dismissal does <em>not</em> restore certain pre-filing rights or that certain conditions attach to any future filing.</p>
 
 <h2>Cross-References</h2>
 <ul>
-  <li><a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a> - Full guide to options after <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a></li>
-  <li><a href="/dismissed-vs-discharged.html">Dismissed vs discharged</a> - The key differences</li>
-  <li><a href="https://canifileagain.org">canifileagain.org</a> - Refiling options</li>
+  <li><a href="/can-i-refile.html">Can I refile after dismissal?</a></li>
+  <li><a href="/refiling-after.html">Refiling guide</a></li>
+  <li><a href="https://109g.org">109g.org</a> - The 180-day filing bar</li>
+  <li><a href="https://canifileagain.org">canifileagain.org</a> - Refiling eligibility</li>
 </ul>
 
 </article>
@@ -234,7 +221,7 @@ footer .links a{margin:0 0.75rem}
   <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
   <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> and <a href="https://nondischargeable.org" title="Nondischargeable Debts - Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> debts:</p>
   <ul style="list-style:none;padding:0;margin:0">
-    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/523" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 523</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - exceptions to discharge</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/523" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 523</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - exceptions to <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></span></li>
     <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/524" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 524</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - <a href="https://dischargeinjunction.com/" title="discharge injunction">discharge injunction</a></span></li>
     <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/727" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 727</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - grounds for denying discharge</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics/discharge-bankruptcy" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Discharge in Bankruptcy</a><br><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
@@ -341,7 +328,7 @@ footer .links a{margin:0 0.75rem}
   <ul style="list-style:none;padding:0;margin:0">
     <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=bankruptcydismissed&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
     <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=bankruptcydismissed&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-    <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=bankruptcydismissed&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://relieffromstay.org/?utm_source=bankruptcydismissed&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Relief from Automatic Stay</a> <span style="color:#7d8590;font-size:0.8rem">-- relieffromstay.org</span></li>
   </ul>
 </div>
 </body>

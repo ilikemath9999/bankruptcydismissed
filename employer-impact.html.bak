@@ -20,17 +20,17 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Dismissed vs Discharged in Bankruptcy - The Critical Difference</title>
-<meta name="description" content="Dismissed and discharged are the two most commonly confused terms in bankruptcy. One means your debts are gone. The other means nothing happened.">
-<link rel="canonical" href="https://bankruptcydismissed.com/dismissed-vs-discharged.html">
-<meta property="og:title" content="Dismissed vs Discharged in Bankruptcy - The Critical Difference">
-<meta property="og:description" content="Dismissed and discharged are the two most commonly confused terms in bankruptcy. One means your debts are gone. The other means nothing happened.">
+<title>Does a Dismissed Bankruptcy Affect My Job?</title>
+<meta name="description" content="Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C.">
+<link rel="canonical" href="https://bankruptcydismissed.com/employer-impact.html">
+<meta property="og:title" content="Does a Dismissed Bankruptcy Affect My Job?">
+<meta property="og:description" content="Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://bankruptcydismissed.com/dismissed-vs-discharged.html">
+<meta property="og:url" content="https://bankruptcydismissed.com/employer-impact.html">
 <meta property="og:site_name" content="BankruptcyDismissed.com">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Dismissed vs Discharged in Bankruptcy - The Critical Difference">
-<meta name="twitter:description" content="Dismissed and discharged are the two most commonly confused terms in bankruptcy. One means your debts are gone. The other means nothing happened.">
+<meta name="twitter:title" content="Does a Dismissed Bankruptcy Affect My Job?">
+<meta name="twitter:description" content="Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C.">
 <meta property="og:image" content="https://openbankruptcyproject.org/og-default.svg">
 <meta name="twitter:image" content="https://openbankruptcyproject.org/og-default.svg">
 <link rel="sitemap" type="application/xml" href="/sitemap.xml">
@@ -136,9 +136,9 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Dismissed vs Discharged in Bankruptcy - The Critical Difference",
-  "description": "Dismissed and discharged are the two most commonly confused terms in bankruptcy. One means your debts are gone. The other means nothing happened.",
-  "url": "https://bankruptcydismissed.com/dismissed-vs-discharged.html",
+  "name": "Does a Dismissed Bankruptcy Affect My Job?",
+  "description": "Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C. Section 525 against bankruptcy discrimination.",
+  "url": "https://bankruptcydismissed.com/employer-impact.html",
   "inLanguage": "en",
   "isPartOf": {
     "@type": "WebSite",
@@ -148,7 +148,7 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
 }
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bankruptcydismissed.com/"},{"@type":"ListItem","position":2,"name":"Dismissed vs Discharged","item":"https://bankruptcydismissed.com/dismissed-vs-discharged.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bankruptcydismissed.com/"},{"@type":"ListItem","position":2,"name":"Employer Impact","item":"https://bankruptcydismissed.com/employer-impact.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -156,8 +156,8 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Dismissed vs Discharged - The Critical Difference",
-      "description": "Dismissed and discharged are the two most commonly confused terms in bankruptcy. One means your debts are gone. The other means nothing happened. Learn the diff",
+      "headline": "Does a Dismissed Bankruptcy Affect My Job?",
+      "description": "Learn how a dismissed bankruptcy affects employment, credit reports, and your legal protections under 11 U.S.C. Section 525 against bankruptcy discrimination.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -169,86 +169,14 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://bankruptcydismissed.com/dismissed-vs-discharged.html"
-    },
-    {
-      "@type": "HowTo",
-      "name": "Dismissed vs Discharged - The Critical Difference",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nDismissed vs Discharged in Bankruptcy - The Cri"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 2,
-          "text": "All creditor rights are restored"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 3,
-          "text": "Any property surrendered during the case may already be gone"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 4,
-          "text": "Payments made to the Chapter 13 trustee are typically returned to you (minus administrative costs), but this takes time"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 5,
-          "text": "Your attorney fees are generally not refundable unless negligence caused the dismissal"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 6,
-          "text": "Check PACER. Search for your case at pacer.uscourts.gov. The docket will show either a \"Discharge of Debtor\" entry or an \"Order of Dismissal\" entry."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 7,
-          "text": "Check your credit report. Your bankruptcy should be listed with a status of \"Discharged\" or \"Dismissed.\" Request free reports at annualcreditreport.com."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 8,
-          "text": "Contact the court clerk. Call the bankruptcy court clerk's office and provide your case number. They can tell you the disposition."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 9,
-          "text": "Ask your attorney. If you had an attorney, they should be able to confirm the outcome."
-        }
-      ]
+      "mainEntityOfPage": "https://bankruptcydismissed.com/employer-impact.html"
     }
   ]
 }
 </script>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Why This Confusion Matters?", "acceptedAnswer": {"@type": "Answer", "text": "The dismissed/discharged confusion is not just academic. It causes real harm in several ways:"}}, {"@type": "Question", "name": "How Discharge Works?", "acceptedAnswer": {"@type": "Answer", "text": "A discharge is the legal order entered by the bankruptcy court that permanently eliminates your obligation to pay qualifying debts. In Chapter 7, discharge typically occurs about 60 to 90 days after the Section 341 meeting if no one objects."}}, {"@type": "Question", "name": "How Dismissal Works?", "acceptedAnswer": {"@type": "Answer", "text": "A dismissal does none of those things. The court simply closes the case, and you are in the same position you were before filing - except that you have paid filing fees, possibly attorney fees, and your credit report now shows a bankruptcy filing."}}, {"@type": "Question", "name": "What About \"Closed\" Cases?", "acceptedAnswer": {"@type": "Answer", "text": "You might also see the term \"closed\" on your case. A case can be closed after either a discharge or a dismissal. \"Closed\" simply means the court considers the case administratively complete. It does not tell you whether you received a discharge."}}, {"@type": "Question", "name": "How to Check Your Case Status?", "acceptedAnswer": {"@type": "Answer", "text": "If you are unsure whether your case was dismissed or discharged: Check PACER. Search for your case at pacer.uscourts.gov . The docket will show either a \"Discharge of Debtor\" entry or an \"Order of Dismissal\" entry. Check your credit report."}}]}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Does Section 525 Apply to Dismissed Cases?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The statute protects anyone who \"is or has been a debtor\" in a bankruptcy case. A dismissed case means you were a debtor. The fact that the case was dismissed rather than discharged does not remove the protection."}}, {"@type": "Question", "name": "What Employers Can See?", "acceptedAnswer": {"@type": "Answer", "text": "That you filed for bankruptcy Which chapter you filed under Whether the case was dismissed or discharged The filing date"}}, {"@type": "Question", "name": "What Employers Cannot Legally Do?", "acceptedAnswer": {"@type": "Answer", "text": "Government employers: Cannot use bankruptcy as the sole basis for any employment decision, including hiring Private employers (current job): Cannot fire you solely because of the bankruptcy filing Any employer: Must comply with Fair Credit Reporting Act requirements - they must get your written..."}}]}
 </script>
 </head>
 <body>
@@ -274,158 +202,150 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
 </nav>
 
 <header>
-  <h1><span class="accent">Dismissed vs Discharged</span> - The Critical Difference</h1>
-  <p class="subtitle">The most commonly confused terms in bankruptcy law</p>
+  <h1>Does a Dismissed Bankruptcy <span class="accent">Affect My Job</span>?</h1>
+  <p class="subtitle">Employment protections, credit reports, and hiring discrimination</p>
 </header>
 
 <main id="main">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://bankruptcydismissed.com/">Home</a><span class="separator">&rsaquo;</span><span>Dismissed vs Discharged</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://bankruptcydismissed.com/">Home</a><span class="separator">&rsaquo;</span><span>Employer Impact</span></nav>
 
 
 <div class="disclaimer">
   <strong>Not legal advice.</strong> This site provides general educational information about bankruptcy law. Consult with a licensed attorney for advice about your specific situation.
 </div>
 
-<p>If you search for information about your bankruptcy case, you will encounter two words that sound almost identical but mean completely opposite things: <span class="warning">dismissed</span> and <span class="success">discharged</span>. Confusing them can lead to serious misunderstandings about your legal situation, your debts, and your rights.</p>
+<p>One of the most common fears people have after a bankruptcy <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> is the impact on their job and future employment. The good news is that federal law provides significant protections against bankruptcy-related discrimination. The bad news is that a <a href="https://dismissedbankruptcy.org" title="Dismissed Bankruptcy Cases - Open Bankruptcy Project" target="_blank" rel="noopener">dismissed bankruptcy</a> filing still appears on your credit report, and the protections have limits.</p>
 
-<p>This page explains the difference clearly so you know exactly where you stand.</p>
+<h2>Section 525 - Bankruptcy Discrimination Protection</h2>
 
-<h2>The One-Sentence Difference</h2>
+<p>Section 525 of the Bankruptcy Code (11 U.S.C. Section 525) prohibits certain types of discrimination based solely on the fact that a person has filed for bankruptcy, been insolvent, or received a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
 
 <div class="card">
-  <p><span class="success">Discharged</span> means your qualifying debts are permanently eliminated. You got the relief you filed for.</p>
-  <p style="margin-bottom:0"><span class="warning">Dismissed</span> means your case was closed without any debt relief. You owe everything you owed before.</p>
+  <h3>Section 525(a) - Government Employers</h3>
+  <p>A governmental unit may not deny, revoke, suspend, or refuse to renew a license, permit, charter, franchise, or other similar grant, and may not deny employment to, terminate the employment of, or discriminate with respect to employment against a person solely because that person:</p>
+  <ul>
+    <li>Is or has been a debtor in a bankruptcy case</li>
+    <li>Has been insolvent before or during the case</li>
+    <li>Has not paid a debt that is dischargeable or was discharged</li>
+  </ul>
+  <p>This protection applies to all government employers at the federal, state, and local level. It covers both current employment and hiring decisions.</p>
 </div>
 
-<p>That is the entire difference. Everything else flows from this distinction.</p>
+<div class="card">
+  <h3>Section 525(b) - Private Employers</h3>
+  <p>A private employer may not terminate the employment of, or discriminate with respect to employment against, an individual who is or has been a debtor in a bankruptcy case solely because of the bankruptcy filing.</p>
+  <p><strong>Important limitation:</strong> Courts have generally interpreted Section 525(b) to protect <span class="highlight">existing employees</span> from termination but <span class="warning">not</span> job applicants from hiring discrimination. This means a private employer likely cannot fire you for filing bankruptcy, but may be able to decline to hire you based on it. This interpretation has been the subject of ongoing legal debate, and some courts have reached different conclusions.</p>
+</div>
 
-<h2>Side-by-Side Comparison</h2>
+<h3>Does Section 525 Apply to Dismissed Cases?</h3>
+
+<p>Yes. The statute protects anyone who "is or has been a debtor" in a bankruptcy case. A dismissed case means you were a debtor. The fact that the case was dismissed rather than discharged does not remove the protection. You were a debtor from the moment the petition was filed until the case was closed.</p>
+
+<h2>Credit Report Impact</h2>
+
+<p>Even though Section 525 provides legal protections, the practical reality is that a bankruptcy filing appears on your credit report and may influence decisions made by employers, landlords, and creditors.</p>
 
 <table>
   <thead>
     <tr>
       <th scope="col">Factor</th>
-      <th scope="col"><span class="success">Discharged</span></th>
-      <th scope="col"><span class="warning">Dismissed</span></th>
+      <th scope="col">Dismissed</th>
+      <th scope="col">Discharged</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>Appears on credit report?</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Duration (<a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>)</td>
+      <td>10 years from filing</td>
+      <td>10 years from filing</td>
+    </tr>
+    <tr>
+      <td>Duration (<a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>)</td>
+      <td>7 years from filing</td>
+      <td>7 years from filing</td>
+    </tr>
+    <tr>
       <td>Debts eliminated?</td>
-      <td>Yes (qualifying debts)</td>
-      <td>No - all debts remain</td>
+      <td>No</td>
+      <td>Yes</td>
     </tr>
     <tr>
-      <td>Creditor collection</td>
-      <td>Permanently barred for discharged debts</td>
-      <td>Resumes immediately</td>
-    </tr>
-    <tr>
-      <td><a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">Automatic stay</a></td>
-      <td>Replaced by permanent <a href="https://dischargeinjunction.org" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a></td>
-      <td>Lifted immediately upon <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a></td>
-    </tr>
-    <tr>
-      <td>Credit report notation</td>
-      <td>"Discharged" or "Completed"</td>
-      <td>"Dismissed"</td>
-    </tr>
-    <tr>
-      <td>Credit report duration</td>
-      <td>7 years (Ch. 13) / 10 years (Ch. 7)</td>
-      <td>7 years (Ch. 13) / 10 years (Ch. 7)</td>
-    </tr>
-    <tr>
-      <td>Refiling restrictions</td>
-      <td><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> bars under <a href="https://1328f.com/check.html">1328(f)</a> / <a href="https://727a8.com/" title="Section 727(a)(8)">727(a)(8)</a></td>
-      <td>Possible 180-day filing bar under <a href="https://109g.org/" title="Section 109(g)">109(g)</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://garnishedwages.org" title="Wage Garnishment and Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">Wage garnishment</a></td>
-      <td>Stopped permanently for discharged debts</td>
-      <td>Can resume immediately</td>
-    </tr>
-    <tr>
-      <td>Foreclosure</td>
-      <td>Mortgage current if plan completed (Ch. 13)</td>
-      <td>Can resume immediately</td>
-    </tr>
-    <tr>
-      <td>Repossession</td>
-      <td>Vehicle retained if plan completed</td>
-      <td>Creditor can repossess immediately</td>
-    </tr>
-    <tr>
-      <td>Outcome for debtor</td>
-      <td><a href="https://bankruptcyfreshstart.org" title="Fresh Start After Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">Fresh start</a> achieved</td>
-      <td>Back to square one</td>
+      <td>Credit score impact</td>
+      <td>Negative (filing + unresolved debt)</td>
+      <td>Negative initially, then improving</td>
     </tr>
   </tbody>
 </table>
 
-<h2>Why This Confusion Matters</h2>
+<p>The frustrating reality: a <a href="https://dismissedbankruptcy.org" title="Dismissed Bankruptcy Cases - Open Bankruptcy Project" target="_blank" rel="noopener">dismissed bankruptcy</a> has a <span class="warning">worse long-term credit impact</span> than a discharged one. With a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, your debts are eliminated and you can begin rebuilding credit immediately. With a <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>, you still carry all the debt plus the negative record of having filed. Your credit report shows both the filing and the ongoing delinquent accounts.</p>
 
-<p>The dismissed/discharged confusion is not just academic. It causes real harm in several ways:</p>
+<h2>Background Checks and Hiring</h2>
 
-<h3>Debtors Who Think They Are Free of Debt</h3>
+<p>Many employers run background checks that include credit history, particularly for positions involving financial responsibilities, security clearances, or access to sensitive information. Here is what they can and cannot do:</p>
 
-<p>Some people receive a <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> order and believe their debts have been eliminated. They stop making payments, ignore creditor calls, and are blindsided when a <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a> hits their paycheck or a foreclosure proceeds. If your case was <span class="warning">dismissed</span>, you still owe every penny.</p>
-
-<h3>Employers and Landlords Who Misread Records</h3>
-
-<p>Background checks often show a bankruptcy filing without clearly distinguishing between dismissed and discharged outcomes. An employer or landlord might see "bankruptcy" and not understand that a dismissal means the person did not receive debt relief. Conversely, they might think a dismissal is somehow "better" than a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, when in reality a discharge represents the successful completion of the process.</p>
-
-<h3>Credit Reporting Errors</h3>
-
-<p>Credit bureaus sometimes report a dismissed case as discharged, or vice versa. If your credit report incorrectly shows a discharge when your case was actually dismissed (or the reverse), you have the right to dispute the error under the Fair Credit Reporting Act. Review your credit reports from all three bureaus after your case closes.</p>
-
-<h2>How Discharge Works</h2>
-
-<p>A discharge is the legal order entered by the bankruptcy court that permanently eliminates your obligation to pay qualifying debts. In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, discharge typically occurs about 60 to 90 days after the Section <a href="https://341meeting.org" title="341 Meeting of Creditors - Open Bankruptcy Project" target="_blank" rel="noopener">341 meeting</a> if no one objects. In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, discharge occurs after you complete all plan payments over three to five years.</p>
-
-<p>Not all debts can be discharged. <a href="https://bankruptcystudentloans.org/" title="student loans">Student loans</a>, most tax debts, child support, alimony, and debts arising from fraud are generally <a href="https://nondischargeable.org/" title="nondischargeable">non-dischargeable</a>. But for credit cards, medical bills, personal loans, and most other consumer debts, discharge wipes the slate clean.</p>
-
-<p>After discharge, creditors are permanently barred from attempting to collect discharged debts. This protection is called the <a href="https://dischargeinjunction.org" title="Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">discharge injunction</a> under <a href="https://524injunction.com" title="Section 524 Discharge Injunction - Open Bankruptcy Project" target="_blank" rel="noopener">Section 524</a>(a). Violating it can result in contempt of court.</p>
-
-<h2>How Dismissal Works</h2>
-
-<p>A dismissal does none of those things. The court simply closes the case, and you are in the same position you were before filing - except that you have paid filing fees, possibly attorney fees, and your credit report now shows a bankruptcy filing.</p>
-
-<p>After dismissal:</p>
+<h3>What Employers Can See</h3>
 
 <ul>
-  <li>All debts remain in full</li>
-  <li>All creditor rights are restored</li>
-  <li>Any property surrendered during the case may already be gone</li>
-  <li>Payments made to the <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> trustee are typically returned to you (minus administrative costs), but this takes time</li>
-  <li>Your attorney fees are generally not refundable unless negligence caused the dismissal</li>
+  <li>That you filed for bankruptcy</li>
+  <li>Which chapter you filed under</li>
+  <li>Whether the case was dismissed or discharged</li>
+  <li>The filing date</li>
 </ul>
 
-<h2>What About "Closed" Cases?</h2>
+<h3>What Employers Cannot Legally Do</h3>
 
-<p>You might also see the term "closed" on your case. A case can be closed after either a discharge or a dismissal. "Closed" simply means the court considers the case administratively complete. It does not tell you whether you received a discharge. Always check whether the case ended in discharge or dismissal.</p>
+<ul>
+  <li><strong>Government employers:</strong> Cannot use bankruptcy as the sole basis for any employment decision, including hiring</li>
+  <li><strong>Private employers (current job):</strong> Cannot fire you solely because of the bankruptcy filing</li>
+  <li><strong>Any employer:</strong> Must comply with Fair Credit Reporting Act requirements - they must get your written consent before pulling credit, and must give you a copy of the report and a chance to dispute it before taking adverse action</li>
+</ul>
 
-<h2>The Discharge Bar Connection</h2>
+<h3>The Gray Area for Private Hiring</h3>
 
-<p>Here is where it gets more complex. If your case was <span class="success">discharged</span>, that discharge starts a clock on certain refiling restrictions. Under <a href="https://1328f.com/explainer.html">Section 1328(f)</a>, you cannot receive another Chapter 13 discharge for a period of time after a prior discharge (two years after a prior Chapter 13 discharge, four years after a prior <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> discharge).</p>
+<p>As noted above, many courts have held that Section 525(b) does not prevent private employers from refusing to hire based on a bankruptcy filing. If you are a job applicant and a private employer asks about bankruptcy or runs a credit check, the employer may legally consider it in their hiring decision in most jurisdictions.</p>
 
-<p>If your case was <span class="warning">dismissed</span>, these discharge bars do not apply - because you never received a discharge. However, you may face the filing bars under Sections <a href="https://109g.org/" title="Section 109(g)">109(g)</a> and 362(c)(3) discussed in our <a href="/can-i-refile.html">refiling guide</a>.</p>
+<p>However, some states have enacted additional protections. For example, several states restrict when and how employers can use credit reports in hiring decisions. Check your state's laws for additional protections beyond the federal baseline.</p>
 
-<p>Use the <a href="https://1328f.com/check.html">1328f.com eligibility screener</a> to check whether a prior case creates any bars for your next filing.</p>
+<h2>Professional Licenses and Government Benefits</h2>
 
-<h2>How to Check Your Case Status</h2>
+<p>Section 525(a) broadly protects against discrimination by government units, which includes:</p>
 
-<p>If you are unsure whether your case was dismissed or discharged:</p>
+<ul>
+  <li><strong>Professional licenses</strong> - bar admission, medical licenses, real estate licenses, and similar state-issued credentials cannot be denied solely based on bankruptcy</li>
+  <li><strong>Government contracts</strong> - a government agency cannot refuse to do business with you solely because of a bankruptcy filing</li>
+  <li><strong><a href="https://bankruptcystudentloans.org/" title="student loans">Student loans</a></strong> - the Department of Education cannot deny <a href="https://bankruptcystudentloans.org/" title="student loans">student loan</a> eligibility based on a prior bankruptcy</li>
+  <li><strong>Public housing</strong> - a public housing authority cannot deny housing solely based on bankruptcy</li>
+  <li><strong>Driver's license</strong> - cannot be revoked solely because of a bankrupted debt (relevant in some states that suspend licenses for unpaid judgments from accidents)</li>
+</ul>
 
-<ol>
-  <li><strong>Check <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a>.</strong> Search for your case at <a href="https://pacer.uscourts.gov">pacer.uscourts.gov</a>. The docket will show either a "Discharge of Debtor" entry or an "Order of Dismissal" entry.</li>
-  <li><strong>Check your credit report.</strong> Your bankruptcy should be listed with a status of "Discharged" or "Dismissed." Request free reports at annualcreditreport.com.</li>
-  <li><strong>Contact the court clerk.</strong> Call the bankruptcy court clerk's office and provide your case number. They can tell you the disposition.</li>
-  <li><strong>Ask your attorney.</strong> If you had an attorney, they should be able to confirm the outcome.</li>
-</ol>
+<h2>What You Can Do</h2>
+
+<div class="card">
+  <h3>Monitor Your Credit Reports</h3>
+  <p>After dismissal, check all three credit reports (Equifax, Experian, TransUnion) to ensure the bankruptcy is reported accurately as "dismissed" rather than "discharged" or any other incorrect status. Dispute any errors under the Fair Credit Reporting Act. You can get free reports at annualcreditreport.com.</p>
+</div>
+
+<div class="card">
+  <h3>Rebuild Your Credit</h3>
+  <p>Since a <a href="https://dismissedbankruptcy.org" title="Dismissed Bankruptcy Cases - Open Bankruptcy Project" target="_blank" rel="noopener">dismissed bankruptcy</a> leaves you with all your debt and a negative credit record, focus on stabilizing your finances. Pay down what you can, negotiate settlements where possible, and consider whether <a href="/can-i-refile.html">refiling for bankruptcy</a> would give you a better foundation for rebuilding.</p>
+</div>
+
+<div class="card">
+  <h3>Know Your Rights</h3>
+  <p>If you believe an employer terminated you or a government entity denied you a benefit solely because of your bankruptcy filing, consult with an employment attorney or consumer protection attorney. Section 525 violations are actionable, and you may be entitled to damages.</p>
+</div>
+
+<h2>The Bottom Line</h2>
+
+<p>A <a href="https://dismissedbankruptcy.org" title="Dismissed Bankruptcy Cases - Open Bankruptcy Project" target="_blank" rel="noopener">dismissed bankruptcy</a> is an unfortunate outcome - you get the credit report hit without the debt relief. But federal law does provide meaningful protections against discrimination, especially from government employers and in maintaining your current employment. The most practical step you can take is to resolve the underlying debt situation, whether through <a href="/can-i-refile.html">refiling for bankruptcy</a>, negotiating with creditors, or other means described in our <a href="/what-happens-next.html">post-dismissal guide</a>.</p>
 
 <div class="disclaimer">
-  <strong>Not legal advice.</strong> This guide is for general educational purposes only. Consult with a licensed bankruptcy attorney for advice about your specific situation. Nothing on this site creates an attorney-client relationship.
+  <strong>Not legal advice.</strong> This guide is for general educational purposes only. Employment law varies significantly by state and jurisdiction. Consult with a licensed attorney for advice about your specific situation. Nothing on this site creates an attorney-client relationship.
 </div>
 
 
@@ -493,10 +413,10 @@ footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var
   <p>&copy; 2026 BankruptcyDismissed.com. Educational resource. Not legal advice.</p>
   <div class="links">
     <a href="/">Home</a>
+    <a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
     <a href="/can-i-refile.html">Can I Refile?</a>
     <a href="/reasons-for-dismissal.html">Why Cases Get Dismissed</a>
     <a href="/what-happens-next.html">What Happens Next</a>
-    <a href="/employer-impact.html">Employer Impact</a>
   </div>
   <div class="network">
     Part of the <strong>Open Bankruptcy Project</strong>:
